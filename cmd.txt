@@ -1,0 +1,15 @@
+commands:
+1.List all songs
+2.List all albums
+3.Create new album
+4.Add song to album
+5.Delete song from album
+6.Add album to playlist
+7.Add song to playlist
+8.Show playlist
+9.Play next song 
+10.Play previous song
+11.Show current playing song
+12.Remove the song from the playlist
+13.Show history
+14.Exit
