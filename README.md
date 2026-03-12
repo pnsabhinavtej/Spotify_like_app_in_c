@@ -1,6 +1,6 @@
 # Spotify_like_app_in_c
 
-commandd which are implemented:
+Commands which are implemented:
 
 0.Help
 
