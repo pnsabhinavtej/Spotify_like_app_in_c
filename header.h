@@ -1,8 +1,4 @@
-// create header file by making text file but save as .h
-// _ and all captial letters
-// you will find mistake if #endif not writtern at end 
-// no other .h files
-// declare global variables by writing extern
+
 #ifndef HEADER_H
 #define HEADER_H
 typedef struct song 
